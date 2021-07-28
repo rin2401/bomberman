@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 517af67dab1feb648901bcfac2f4e126
+timeCreated: 1478349156
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bomb-OmbSheet_0
+    21300002: Bomb-OmbSheet_1
+    21300004: Bomb-OmbSheet_2
+    21300006: Bomb-OmbSheet_3
+    21300008: Bomb-OmbSheet_4
+    21300010: Bomb-OmbSheet_5
+    21300012: Bomb-OmbSheet_6
+    21300014: Bomb-OmbSheet_7
+    21300016: Bomb-OmbSheet_8
+    21300018: Bomb-OmbSheet_9
+    21300020: Bomb-OmbSheet_10
+    21300022: Bomb-OmbSheet_11
+    21300024: Bomb-OmbSheet_12
+    21300026: Bomb-OmbSheet_13
+    21300028: Bomb-OmbSheet_14
+    21300030: Bomb-OmbSheet_15
+    21300032: Bomb-OmbSheet_16
+    21300034: Bomb-OmbSheet_17
+    21300036: Bomb-OmbSheet_18
+    21300038: Bomb-OmbSheet_19
+    21300040: Bomb-OmbSheet_20
+    21300042: Bomb-OmbSheet_21
+    21300044: Bomb-OmbSheet_22
+    21300046: Bomb-OmbSheet_23
+    21300048: Bomb-OmbSheet_24
+    21300050: Bomb-OmbSheet_25
+    21300052: Bomb-OmbSheet_26
+    21300054: Bomb-OmbSheet_27
+    21300056: Bomb-OmbSheet_28
+    21300058: Bomb-OmbSheet_29
+    21300060: Bomb-OmbSheet_30
+    21300062: Bomb-OmbSheet_31
+    21300064: Bomb-OmbSheet_32
+    21300066: Bomb-OmbSheet_33
+    21300068: Bomb-OmbSheet_34
+    21300070: Bomb-OmbSheet_35
+    21300072: Bomb-OmbSheet_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 265
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 265
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 265
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 265
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 265
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 227
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 227
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 227
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 227
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 227
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_10
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 201
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 201
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 160
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 160
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 160
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 146
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 128
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 128
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 68
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 74
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 72
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 71
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 71
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 78
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 76
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 76
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 9
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 13
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 12
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_32
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 12
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_33
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 13
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 19
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb-OmbSheet_36
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
