@@ -15,12 +15,12 @@ public class Fire : MonoBehaviour {
         //remove fire when it's done
         Destroy(gameObject, 0.4f);
 	}
-	
-	void Update () {
+
+    void Update () {
         transform.Rotate(0, 0, -45);
     }
-	
-	public void OnTriggerEnter2D (Collider2D collision) {
+
+    public void OnTriggerEnter2D (Collider2D collision) {
         if (collision.gameObject.GetComponent<PowerUpSpawner>() != null)
         {
             // make sure bomb don't destroy your powerup
@@ -78,7 +78,6 @@ public class Fire : MonoBehaviour {
                 gameController.Victory();
             }
             return;
-
         }
         if (collision.gameObject.tag != "Player" || collision.gameObject.tag != "Boss")
         {
